@@ -1,0 +1,6 @@
+
+[
+{"number":"a4","fromCity":"london","toCity":"barcelona","departure1":"2019-02-05","arrival1":"2019-02-07","departureTime1":"13:00 pm","arrivalTime1":"14:00 pm","departure2":"0000-00-00","arrival2":"0000-00-00","departureTime2":"","arrivalTime2":"","airLine":"Turkish Airline","departureAirport":"sas","arrivalAirport":"sdsd","oneWay":"yes","direct":"yes","price":"200"},
+{"number":"a5","fromCity":"London","toCity":"barcelona","departure1":"2019-02-01","arrival1":"2019-02-02","departureTime1":"13:00 am","arrivalTime1":"15:40 pm","departure2":"2019-02-20","arrival2":"2019-02-21","departureTime2":"12:50 pm","arrivalTime2":"13:00 am","airLine":"Turkish Airline","departureAirport":"Jet Center","arrivalAirport":"El Prat (BCN)","oneWay":"no","direct":"yes","price":"420"},
+{"number":"a6","fromCity":"Athena","toCity":"Eilat","departure1":"2019-02-07","arrival1":"2019-02-07","departureTime1":"09:30 pm","arrivalTime1":"10:30 pm","departure2":"0000-00-00","arrival2":"0000-00-00","departureTime2":"","arrivalTime2":"","airLine":"PEGASUS","departureAirport":"(ATH)","arrivalAirport":"ben gurion","oneWay":"yes","direct":"yes","price":"130"}
+]

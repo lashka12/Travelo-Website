@@ -1,0 +1,61 @@
+body {
+    background-image: url(../SysPictures/glob2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
+}
+
+.form-control:focus {
+    border: 2px solid dodgerblue;
+
+}
+
+
+.loginBox{
+
+  -webkit-box-shadow: -4px -1px 172px -25px rgba(0,0,0,1);
+  -moz-box-shadow: -4px -1px 172px -25px rgba(0,0,0,1);
+  box-shadow: -4px -1px 172px -25px rgba(0,0,0,1);
+  border-radius: 31px 31px 31px 31px;
+  -moz-border-radius: 31px 31px 31px 31px;
+  -webkit-border-radius: 31px 31px 31px 31px;
+  border: 0px solid #000000;
+  top:40%;
+  left:50%;
+  padding: 20px;
+  position: absolute;
+  width: 310px;
+  height: 390px;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+
+
+}
+
+
+.form-control{
+border-radius: 1em;
+
+}
+
+
+.login-Header{
+
+font-size: 40px;
+text-align: center;
+font-weight: bold;
+
+}
+
+.btn:hover{
+
+
+opacity: 0.8;
+
+transition: all 0.25s ease-in;
+cursor: pointer;
+
+
+
+}
